@@ -26,7 +26,8 @@ Este projeto tem como objetivo explorar conceitos de Orientação a Objetos (OO)
 ### Classes
 
 - **`App`**
-    - Classe principal do projeto. Cria e manipula objetos das classes `Produto` e `ProdutoPerecivel`, exibindo suas informações.
+  - Classe principal do projeto. Cria e manipula objetos das classes `Produto` e `ProdutoPerecivel`, exibindo suas informações.
+  - Utiliza um `ArrayList` para armazenar e exibir os produtos criados.
 
 - **`Produto`**
     - Representa um produto com os atributos:
