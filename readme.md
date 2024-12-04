@@ -1,4 +1,4 @@
-# Projeto de Estudo - Manipulação de Produtos Perecíveis
+# Projeto de Estudo - Trabalhando com Construtores
 
 Este projeto tem como objetivo explorar conceitos de Orientação a Objetos (OO) em Java, utilizando herança, construtores, encapsulamento e o método `toString()` para representar e manipular objetos de maneira eficiente. O foco é no gerenciamento de produtos, incluindo produtos perecíveis com data de validade.
 
